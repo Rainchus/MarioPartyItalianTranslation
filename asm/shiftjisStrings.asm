@@ -1,0 +1,2 @@
+NewStringPtr:
+.sjis "ＴＥＳＴ"
