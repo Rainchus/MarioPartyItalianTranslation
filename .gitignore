@@ -1,4 +1,5 @@
-rom/**
+rom/mp1.pal.mod.z64
+rom/mp1.pal.z64
 obj/**
 .vscode/**
 syms.out
